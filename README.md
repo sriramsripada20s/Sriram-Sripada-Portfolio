@@ -17,3 +17,5 @@ To predict Fault Severity at particular time and location based on log data avai
 **Deployed Streamlit web app on Heroku Cloud created so that users could explore my LGBM Classification model predicting the Telstra network's Fault Severity at a time at a particular location based on the log data available.**
 
 Steamlit App Deployed on Heroku: https://telstra-fault-prediction.herokuapp.com/
+![image](https://user-images.githubusercontent.com/49833524/220527542-b910db0e-6faf-46c0-ae06-bbce513f94ee.png)
+
