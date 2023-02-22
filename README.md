@@ -1,7 +1,7 @@
 # Sriram-Sripada-Portfolio
 Analytics Portfolio
 
-# [Project 1: Telstra - Predicting Service Faults On Australia's Largest Telecommunications Network](https://github.com/sriramsripada20s/Telstra_ML_endtoend_Project)
+# [Project 1: Telstra - Predicting Service Faults On Australia's Largest Telecommunications Network Using Machine Learning](https://github.com/sriramsripada20s/Telstra_ML_endtoend_Project)
 
 **Abstract**
 
