@@ -20,7 +20,7 @@ Steamlit App Deployed on Heroku: https://telstra-fault-prediction.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/49833524/220527542-b910db0e-6faf-46c0-ae06-bbce513f94ee.png)
 
 
-# [Project 2: Amazon Fine Food Reviews (Python, Text Classification, Natural Language Processing)]
+# [Project 2: Amazon Fine Food Reviews (Python, Text Classification, Natural Language Processing]
 (https://github.com/sriramsripada20s/Amazon_FineFood_Review_Analysis)
 
 # Amazon_FineFood_Review_Analysis
@@ -38,9 +38,13 @@ The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amaz
 **Attribute Information:**
 
 **Id ProductId** - unique identifier for the product 
+
 **UserId** - unqiue identifier for the user ProfileName 
+
 **HelpfulnessNumerator** - number of users who found the review helpful (no of people who said this review is helpful) 
-**HelpfulnessDenominator** - number of users who indicated whether they found the review helpful or not ((no of people who said this review is helpful + (no of people who said no this review is not helpful)). So 
+
+**HelpfulnessDenominator** - number of users who indicated whether they found the review helpful or not ((no of people who said this review is helpful + (no of people who said no this review is not helpful)).
+
 **HelpfulnessDenominator** should be greater than HelpfulnessNumerator> Score - rating between 1 and 5 Time - timestamp for the review Summary - brief summary of the review Text - text of the review 
 
 
