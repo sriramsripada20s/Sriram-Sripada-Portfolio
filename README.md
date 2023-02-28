@@ -21,24 +21,28 @@ Steamlit App Deployed on Heroku: https://telstra-fault-prediction.herokuapp.com/
 
 
 # [Project 2: Amazon Fine Food Reviews (Python, Text Classification, Natural Language Processing)]
+(https://github.com/sriramsripada20s/Amazon_FineFood_Review_Analysis)
 
-**Obective**
+# Amazon_FineFood_Review_Analysis
 
-To classify reviews as Positive and Negative based on the text/reviews provided by various users on Amazon
+**This was a part of my personal project where I worked on Building A NLP Model to Classify the reviews from Amazon**
 
-Amazon Fine Food Reviews Analysis Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
+**Objective:** To classify reviews as positive (Rating of 4 or 5) or negative (rating of 1 or 2) based on the text/reviews provided by various users on Amazon using Machine Learning and Natual Language Processing Techniques
 
-**The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.**
+**Amazon Fine Food Reviews Analysis Data Source:** https://www.kaggle.com/snap/amazon-fine-food-reviews
 
-Number of reviews: 568,454 Number of users: 256,059 Number of products: 74,258 Timespan: Oct 1999 - Oct 2012 Number of Attributes/Columns in data: 10.
+The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
 
-**Tasks Performed**
+**Number of reviews:** 568,454 Number of users: 256,059 Number of products: 74,258 Timespan: Oct 1999 - Oct 2012 Number of Attributes/Columns in data: 10
 
-1.Used SQLite database and python to perform data loading and data extraction.
+**Attribute Information:**
 
-2.Transformed text using various featurization techniques like Bag of words, Bigrams, TF-IDF, TF-IDF, Avg W2Vec.
+**Id ProductId** - unique identifier for the product 
+**UserId** - unqiue identifier for the user ProfileName 
+**HelpfulnessNumerator** - number of users who found the review helpful (no of people who said this review is helpful) 
+**HelpfulnessDenominator** - number of users who indicated whether they found the review helpful or not ((no of people who said this review is helpful + (no of people who said no this review is not helpful)). So 
+**HelpfulnessDenominator** should be greater than HelpfulnessNumerator> Score - rating between 1 and 5 Time - timestamp for the review Summary - brief summary of the review Text - text of the review 
 
-3.Found the best Machine learning Model by performing Hyper-parameter tuning (Grid Search) and compared them with train and test AUC scores, Accuracy and F1 Scores.
 
 **How to determine if a review is positive or negative?**
 
