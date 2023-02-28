@@ -20,7 +20,7 @@ Steamlit App Deployed on Heroku: https://telstra-fault-prediction.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/49833524/220527542-b910db0e-6faf-46c0-ae06-bbce513f94ee.png)
 
 
-# [Proect 2: 
+# [Project 2: Amazon Fine Food Reviews (Python, Text Classification, Natural Language Processing)]
 
 **Obective**
 
