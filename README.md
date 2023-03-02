@@ -55,4 +55,4 @@ We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive
 # [Project 3: Netflix Dashboard Using Tableau](https://github.com/sriramsripada20s/netflix_dashboard)
 
 Created a Netflix Movie and TV Shows Dashboard using Tableau.
-![Model](https://github.com/sriramsripada20s/netflix_dashboard/blob/main/Dashboard%202.png)
+![Dashboard 2](https://user-images.githubusercontent.com/49833524/222303375-5f8c35d2-f89d-4c3d-a2b8-274c99b669a4.png)
