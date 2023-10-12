@@ -68,7 +68,7 @@ Saved 10 hours per week of manual reporting using the Tableau dashboard to asses
 
 **Presented Internship Project** at **DSSG 2023 Conference**, highlighting **social impact** through data-driven solutions.
 
-**Won First Prize** for a T**echnical Presentation** on **Artificial Intelligence** at the IETE Club's event
+**Won First Prize** for a **Technical Presentation** on **Artificial Intelligence** at the IETE Club's event
 
 **Secretary | Student Group @ IETE** | **Led a 200-students** team in planning, organizing, and executing successful events and workshops,
 fostering growth and innovation in the field.
