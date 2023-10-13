@@ -3,13 +3,16 @@ Experienced data professional with expertise in data science, machine learning, 
 # EDUCATION
 
 **University of South Florida Aug 2022 - May 2024**
-_Master of Science in Business Analytics and Information Systems_ GPA:3.71
+
+**_Master of Science in Business Analytics and Information Systems_ GPA:3.71**
 
 **University of Hyderabad Jan 2021 - Feb 2022**
-_Post Graduate Diploma in Artificial Intelligence and Machine Learning_ 
+
+**_Post Graduate Diploma in Artificial Intelligence and Machine Learning_**
 
 **Osmania University Aug 2016 - Aug 2020**
-_Bachelor of Engineering in Electronics and Communication Engineering_
+
+**_Bachelor of Engineering in Electronics and Communication Engineering_**
 
 # SKILLS
 
