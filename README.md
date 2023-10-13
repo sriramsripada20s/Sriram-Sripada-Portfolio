@@ -14,11 +14,11 @@ Master of Science in Business Analytics and Information Systems GPA:3.71
 
 **University of Hyderabad Jan 2021 - Feb 2022**
 
-Post Graduate Diploma in Artificial Intelligence and Machine Learning
+Post Graduate Diploma in Artificial Intelligence and Machine Learning (PGD - AI & ML)
 
 **Osmania University Aug 2016 - Aug 2020**
 
-Bachelor of Engineering in Electronics and Communication Engineering
+Bachelor of Engineering in Electronics and Communication Engineering (BE - ECE)
 
 # Skills
 
