@@ -2,7 +2,7 @@
 
 🚀 **About Me**:
 
-Data Science Enthusiast | Change Catalyst | Explorer of Insights
+**Data Science Enthusiast | Change Catalyst | Explorer of Insights**
 
 I'm enthusiastic and results-driven professional with a strong foundation in data analytics, machine learning, and software development. My journey in the tech industry has been marked by impactful contributions to various organizations, and I'm excited to share my experiences with you. I have a keen interest in exploring and innovating within the realms of data science and engineering.
 
@@ -14,11 +14,11 @@ Master of Science in Business Analytics and Information Systems GPA:3.71
 
 **University of Hyderabad Jan 2021 - Feb 2022**
 
-Post Graduate Diploma in Artificial Intelligence and Machine Learning (PGD - AI & ML)
+Post Graduate Diploma in Artificial Intelligence and Machine Learning 
 
 **Osmania University Aug 2016 - Aug 2020**
 
-Bachelor of Engineering in Electronics and Communication Engineering (BE - ECE)
+Bachelor of Engineering in Electronics and Communication Engineering
 
 # Skills
 
