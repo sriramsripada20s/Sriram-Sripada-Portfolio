@@ -73,7 +73,7 @@ Implemented data analysis using **statistical techniques** to monitor key perfor
 
 # Certifications & Leadership
 
-**Databricks Accreditation Lakehouse Fundamentals** (Link)
+**Databricks Accreditation Lakehouse Fundamentals** [Verify](https://credentials.databricks.com/2d4dfabd-0a29-496d-a590-e43347066bf0)
 
 **Presented Internship Project** at **DSSG 2023 Conference**, highlighting **social impact** through data-driven solutions.
 
