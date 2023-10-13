@@ -1,6 +1,7 @@
-Welcome to my Data Analytics Portfolio! 
+**Welcome to my Data Analytics Portfolio!**
 
-🚀 About Me:
+🚀 **About Me**:
+
 Data Science Enthusiast | Change Catalyst | Explorer of Insights
 
 I'm enthusiastic and results-driven professional with a strong foundation in data analytics, machine learning, and software development. My journey in the tech industry has been marked by impactful contributions to various organizations, and I'm excited to share my experiences with you. I have a keen interest in exploring and innovating within the realms of data science and engineering.
@@ -48,19 +49,19 @@ insights from text data which enhanced competitive advantage by staying ahead of
 Designed interactive **dashboards using Tableau** enabling stakeholders to interpret data-driven insights, leading to 2x faster response to
 market trends across industries.
 
-**Software Engineer at Softility, Hyderabad, India** 
+**Software Engineer at [Softility](https://www.softility.com/), Hyderabad, India** 
 
 **Jan 2021 - Aug 2022**
 
 Developed **Python scripts** that **reduced data retrieval and processing time for various network devices by 40%** through efficient
 utilization of SNMP protocol, resulting in **enhanced data accessibility and operational efficiency** for a **leading US broadband company.**
 
-Optimized and worked on validating the quality assurance of data polled from **Kafka topics** which **maximized data quality by 20%.**
+Optimized and worked on **validating the quality assurance** of data polled from **Kafka topics** which **maximized data quality by 20%.**
 
 **Reduced software deployment time by 50% in a DevOps** environment through **development of Linux/Unix shell scripts** and leveraged
 Git version control and CI/CD pipelines.
 
-**Machine Learning Intern at SkillAscend, Hyderabad, India**
+**Machine Learning Intern at [SkillAscend](https://www.skillascend.com/), Hyderabad, India**
 
 **Aug 2020 - Dec 2020**
 
