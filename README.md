@@ -1,6 +1,6 @@
 Experienced data professional with expertise in data science, machine learning, and data analysis, with 2+ years of Software engineering and Data science experience. Seeking a challenging role to leverage my skills in data analytics and data-driven decision-making.
 
-# EDUCATION
+# Education
 
 **University of South Florida Aug 2022 - May 2024**
 
@@ -14,7 +14,7 @@ Post Graduate Diploma in Artificial Intelligence and Machine Learning
 
 Bachelor of Engineering in Electronics and Communication Engineering
 
-# SKILLS
+# Skills
 
 **Languages:** Python, R, C, SQL, HTML, CSS
 
@@ -26,7 +26,7 @@ Bachelor of Engineering in Electronics and Communication Engineering
 Classification, Decision Tree, Random Forest, Natural Language Processing, Ploty Dash, Supervised, Unsupervised Learning, Data Science
 Pipeline ( cleansing, wrangling, visualization, modeling, interpretation)
 
-# WORK EXPERIENCE
+# Work Experience
 
 **Data Science Intern at University of North Florida, Jacksonville, FL**
 
@@ -65,7 +65,7 @@ Implemented data analysis using **statistical techniques** to monitor key perfor
 
 **Saved 10 hours per week of manual reporting using the Tableau dashboard** to assess core business KPIs.
 
-# CERTIFICATIONS & LEADERSHIP
+# Certifications & Leadership
 
 **Databricks Accreditation Lakehouse Fundamentals** (Link)
 
@@ -76,6 +76,7 @@ Implemented data analysis using **statistical techniques** to monitor key perfor
 **Secretary | Student Group @ IETE** | **Led a 200-students** team in planning, organizing, and executing successful events and workshops,
 fostering growth and innovation in the field.
 
+# Projects
 
 # [Project 1: Telstra - Predicting Service Faults On Australia's Largest Telecommunications Network Using Machine Learning](https://github.com/sriramsripada20s/Telstra_ML_endtoend_Project)
 
