@@ -4,7 +4,7 @@ Experienced data professional with expertise in data science, machine learning, 
 
 **University of South Florida Aug 2022 - May 2024**
 
-Master of Science in Business Analytics and Information Systems_ GPA:3.71
+Master of Science in Business Analytics and Information Systems GPA:3.71
 
 **University of Hyderabad Jan 2021 - Feb 2022**
 
@@ -32,38 +32,38 @@ Pipeline ( cleansing, wrangling, visualization, modeling, interpretation)
 
 **June 2023 – Aug 2023** 
 
-Spearheaded data quality initiatives by identifying and resolving data concerns; executed data cleaning and preprocessing operations
-using Python programming, leading to a significant 40% decrease in data errors and enhanced data integrity for business analyses
+Spearheaded data quality initiatives by identifying and resolving data concerns;**executed data cleaning and preprocessing** operations
+using Python programming, **leading to a significant 40% decrease** in data errors and **enhanced data integrity** for business analyses
 
-Led team of up to 2 Interns to enhance the existing strategy for a leading Non-Government Organization using Python and Tableau.
+**Led team of up to 3 Interns** to enhance the existing strategy for a leading Non-Government Organization using Python and Tableau.
 
-Leveraged natural language processing techniques like tokenization, topic modeling and text summarization to extract valuable
+Leveraged **natural language processing techniques(NLP**) like **tokenization, topic modeling and text summarization** to extract valuable
 insights from text data which enhanced competitive advantage by staying ahead of industry trends.
 
-Designed interactive dashboards using Tableau enabling stakeholders to interpret data-driven insights, leading to 2x faster response to
+Designed interactive **dashboards using Tableau** enabling stakeholders to interpret data-driven insights, leading to 2x faster response to
 market trends across industries.
 
 **Software Engineer at Softility, Hyderabad, India** 
 
 **Jan 2021 - Aug 2022**
 
-Developed Python scripts that reduced data retrieval and processing time for various network devices by 40% through efficient
-utilization of SNMP protocol, resulting in enhanced data accessibility and operational efficiency for a leading US broadband company.
+Developed **Python scripts** that **reduced data retrieval and processing time for various network devices by 40%** through efficient
+utilization of SNMP protocol, resulting in **enhanced data accessibility and operational efficiency** for a **leading US broadband company.**
 
-Optimized and worked on validating the quality assurance of data polled from Kafka topics which maximized data quality by 20%.
+Optimized and worked on validating the quality assurance of data polled from **Kafka topics** which **maximized data quality by 20%.**
 
-Reduced software deployment time by 50% in a DevOps environment through development of Linux/Unix shell scripts and leveraged
+**Reduced software deployment time by 50% in a DevOps** environment through **development of Linux/Unix shell scripts** and leveraged
 Git version control and CI/CD pipelines.
 
 **Machine Learning Intern at SkillAscend, Hyderabad, India**
 
 **Aug 2020 - Dec 2020**
 
-Performed thorough exploratory data analysis, feature engineering, anomaly detection and leveraged Python to implement Machine Learning algorithms, resulting in a significant 25% increase in model’s accuracy for both classification and regression tasks.
+Performed thorough **exploratory data analysis, feature engineering, anomaly detection** and leveraged Python to implement **Machine Learning algorithms**, resulting in a significant 25% increase in model’s accuracy for both classification and regression tasks.
 
-Implemented data analysis using statistical techniques to monitor key performance metrics such as R2 score, ROC-AUC, and log loss.
+Implemented data analysis using **statistical techniques** to monitor key performance metrics such as R2 score, ROC-AUC, and log loss.
 
-Saved 10 hours per week of manual reporting using the Tableau dashboard to assess core business KPIs.
+**Saved 10 hours per week of manual reporting using the Tableau dashboard** to assess core business KPIs.
 
 # CERTIFICATIONS & LEADERSHIP
 
