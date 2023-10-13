@@ -1,4 +1,9 @@
-Experienced data professional with expertise in data science, machine learning, and data analysis, with 2+ years of Software engineering and Data science experience. Seeking a challenging role to leverage my skills in data analytics and data-driven decision-making.
+Welcome to my Data Analytics Portfolio! 
+
+🚀 About Me:
+Data Science Enthusiast | Change Catalyst | Explorer of Insights
+
+I'm enthusiastic and results-driven professional with a strong foundation in data analytics, machine learning, and software development. My journey in the tech industry has been marked by impactful contributions to various organizations, and I'm excited to share my experiences with you. I have a keen interest in exploring and innovating within the realms of data science and engineering.
 
 # Education
 
@@ -28,9 +33,9 @@ Pipeline ( cleansing, wrangling, visualization, modeling, interpretation)
 
 # Work Experience
 
-**Data Science Intern at University of North Florida, Jacksonville, FL**
+**Data Science Intern at University of North Florida, Jacksonville, FL** 
 
-**June 2023 – Aug 2023** 
+**June 2023 – Aug 2023** [Data Science Internship Link](https://dssg.unf.edu/2023program.html)
 
 Spearheaded data quality initiatives by identifying and resolving data concerns;**executed data cleaning and preprocessing** operations
 using Python programming, **leading to a significant 40% decrease** in data errors and **enhanced data integrity** for business analyses
