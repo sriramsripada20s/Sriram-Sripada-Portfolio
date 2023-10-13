@@ -2,7 +2,7 @@
 
 🚀 **About Me**:
 
-**Data Science Enthusiast | Change Catalyst | Explorer of Insights**
+**Data Science Enthusiast |** **Change Catalyst |** **Explorer of Insights**
 
 I'm enthusiastic and results-driven professional with a strong foundation in data analytics, machine learning, and software development. My journey in the tech industry has been marked by impactful contributions to various organizations, and I'm excited to share my experiences with you. I have a keen interest in exploring and innovating within the realms of data science and engineering.
 
