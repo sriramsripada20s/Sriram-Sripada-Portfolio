@@ -124,9 +124,9 @@ We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive
 #### Dashboards shown below:
 
 **Helps explore the effects of air pollution in detail**
-[dashboard1](https://github.com/sriramsripada20s/Sriram-Sripada-Portfolio/assets/49833524/44ce2325-e9ce-4deb-9a9a-98416ab34886)
+![dashboard1](https://github.com/sriramsripada20s/Sriram-Sripada-Portfolio/assets/49833524/44ce2325-e9ce-4deb-9a9a-98416ab34886)
 
 **Helps explore the health expenditure and DALY rates of various countries**
-[dashboard2](https://github.com/sriramsripada20s/Sriram-Sripada-Portfolio/assets/49833524/d3cfa8f3-f9d9-41b3-b23e-de6eca560c95)
+![dashboard2](https://github.com/sriramsripada20s/Sriram-Sripada-Portfolio/assets/49833524/d3cfa8f3-f9d9-41b3-b23e-de6eca560c95)
 
 
